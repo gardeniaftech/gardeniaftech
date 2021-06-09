@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é Gardênia e sou formada em Administração, atualmente atuando como Tech Recruiter.
 - 👀 Tenho interesse aqui em encontrar talentos na programação e desenvolver meus projetos que estou realizando através de cursos.
-- 💙 Atualmente estou aprendendo Frontend.
+- 💙 Atualmente estou aprendendo Front-end.
 
 ## Linguagens
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
