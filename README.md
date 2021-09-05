@@ -1,6 +1,6 @@
-- 👋 Olá meu nome é Gardênia e sou formada em Administração, atualmente atuando como Supervisora de RH.
-- 👀 Tenho interesse aqui em encontrar talentos na programação e desenvolver meus projetos que estou realizando através de cursos.
-- 💙 Atualmente estou aprendendo Front-end.
+- 👋 Hello my name is Gardenia and I have a degree in Administration, currently acting as HR Supervisor.
+- 👀 I'm interested here in finding talents in programming and developing my projects that I'm carrying out through courses.
+- 💙 I'm currently learning Front-end.
 
 ## Linguagens
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
