@@ -27,4 +27,5 @@ style="max-widht:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="max-width:100%;"></img>           
 ![Gardênia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardeniaftech&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardeniaftech&layout=compact)](https://github.com/gardeniaftech/github-readme-stats)
+
 ![Snake animation](https://github.com/gardeniaftech/gardeniaftech/blob/output/github-contribution-grid-snake.svg)
