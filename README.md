@@ -29,4 +29,3 @@ style="max-widht:100%;">
 ![Gardênia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardeniaftech&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardeniaftech&layout=compact)](https://github.com/gardeniaftech/github-readme-stats)
 
-![Snake animation](https://github.com/gardeniaftech/gardeniaftech/blob/output/github-contribution-grid-snake.svg)
