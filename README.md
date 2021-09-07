@@ -1,5 +1,5 @@
 - 👩‍💻 Olá sou a Gardênia, formada em Administração e atualmente estou atuando na área de RH.
-- 👀 Tenho interesse aqui em buscar talentos na programação, e desenvolver meus cursos que estou realizando atraves de cursos.
+- 👀 Tenho interesse aqui em buscar talentos na programação, e desenvolver meus projetos que estou realizando atraves de cursos.
 - 💙 Atualmente estou aprendendo Front-end.
 
 <div>
