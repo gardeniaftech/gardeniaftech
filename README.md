@@ -12,7 +12,6 @@
   <img align="center" alt="Gardenia-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gardenia-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Gardenia-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="right"  alt="Gardenia-tech" src="https://media.discordapp.net/attachments/818595159725309976/884602712698781766/ezgif.com-gif-maker.gif?width=90&height=100">
 </div>  
   
  ##
