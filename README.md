@@ -1,4 +1,4 @@
-- 👩‍💻 Olá sou a Gardênia, Graduada em Administração e atualmente estou atuando na área de RH.
+- 👩‍💻 Olá sou a Gardênia, Graduada em Administração e atualmente estou atuando na área de Tech Recruiter.
 - 👀 Tenho interesse aqui em buscar talentos na programação, e desenvolver meus projetos que estou realizando atraves de cursos.
 - 💙 Atualmente estou aprendendo Front-end.
 
